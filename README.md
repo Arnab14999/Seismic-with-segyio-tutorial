@@ -3,4 +3,5 @@ This Repository contains detailed tutorial codes for opening seismic (.sgy) file
 # Data
 As the size of the data cube used in this tutorial was larger than the supported storage so it could not be uploaded.
 
-[![DOI](https://zenodo.org/badge/664759609.svg)](https://zenodo.org/badge/latestdoi/664759609)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8132632.svg)](https://doi.org/10.5281/zenodo.8132632)
+
