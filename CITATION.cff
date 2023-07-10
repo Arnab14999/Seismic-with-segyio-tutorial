@@ -1,0 +1,11 @@
+cff-version: 0.1.0
+message: "If you this code, please cite it as below."
+authors:
+  - family-names: "Sarkar"
+    given-names: "Arnab"
+    orcid: https://orcid.org/0009-0002-4799-9029
+title: "Seismic with segyio tutorial"
+version: 0.1.0
+doi: 10.5281/zenodo.8132632
+date-released: 2023-07-10
+url: "https://doi.org/10.5281/zenodo.8132632"
