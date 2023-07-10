@@ -7,5 +7,5 @@ Data used in this tutorial can be downloaded by clicking the link [F3 dataset- O
 # Tutorials
 Tutorial 2: [Extracting Seismic Attributes from segy files using python.](https://github.com/Arnab14999/Seismic-with-segyio-tutorial/blob/main/Tutorials/Tutorial%202%20-%20Calculation%20of%20Seismic%20Attributes.ipynb)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8132632.svg)](https://doi.org/10.5281/zenodo.8132820)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8132820.svg)](https://doi.org/10.5281/zenodo.8132820)
 
